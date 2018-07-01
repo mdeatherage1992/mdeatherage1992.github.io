@@ -1,0 +1,26 @@
+---
+layout: post
+title:      "Solve the Puzzle. Get a job. "
+date:       2018-07-01 15:37:03 +0000
+permalink:  solve_the_puzzle_get_a_job
+---
+
+
+I am sure I am like many of you when I step back from my lessons/labs, and go...how on earth did I get here? I was a telephone salesman with absolutely no background in technology, and here I am typing away on my new CLI Ruby gem (which is totally awesome and you should check it out ;-)   ).  Was there some sort of catalyst to all of us deciding to "put it all on black" with our careers, and go into the complete unknown of what's behind our favorite websites and applications?  I decided to think a little more on that this weekend. 
+
+As a finance professional, there is no such thing as binary knowledge. I think a lot of people believe those who manage our financial lives are there because they have had a proven track record of successfully interpreting and forecasting what the stock market does on a given year. Other than the tippy top, this is not the case. The way a finance employee is valued is based on two things: time and tests.
+
+Experience put simply is time spent. It's not about the quality of experience, but rather just how many years you can put on the left tab of your resume. If those years add up to something substantial, you've probably reached the six figures with your pay. This is easily provable by the way that most job postings are formatted. In big bold letters "DO NOT APPLY WITH LESS THAN 5 YEARS OF XYZ EXPERIENCE". Most companies even have a computer screener to automatically send you a denial at 2:30AM if your time spent doesn't add up to the magic number. 
+
+Tests. In our world those are the CFA, Series 7, CAIA, CIMA, CFP, and the list goes on. In order for me to pick up a phone in finance, I need to have no less than 2 passed tests. In order to be thought of as a "special" candidate for jobs, the CFA test is the gold standard. This test takes over your life for no less than 2 years, and most of the information is completely irrelevant to the role you're aspiring to get into. I asked many CFA charter-holders how much information they retained after their passing, and I rarely heard a percentage that wasn't shockingly low. 
+
+So what does this say about how we are valued? We are just numbers and letters. If I don't have the right number of years, a simple introductory phone call would be a waste of time. No tests under your belt? Well, that just means you couldn't be useful, right? 
+
+The reason I am typing away on my computer each day, 8-10 hours a day, is because that is plain wrong. All employees who are graded under these terms are unproven. The amount of time sitting at a desk, or taking a test with needless material doesn’t make you an excellent candidate that should be brought to the front of an employer’s line. I have met so many people throughout my life that would have meteoric rises if given the opportunity; but those opportunities never present themselves. 
+
+The first time I realized that technology was different was at my first career fair at Northeastern University in 2012. As I walked into the crowded gymnasium filled with hopeful students and excited HR representatives, I immediately went over to the companies that had the trigger words of “financial” or “capital”, as I was excited to begin my career as a financial professional. As I was speaking to the representative, her questions about my GPA and experience were drowned out by a booth right next to us. This booth was a technology company, and instead of a clipboard-carrying rep putting resumes in a pile, there was a big board with a puzzle. The board said “Solve the puzzle. Get a job!”. I was floored. I had been applying like a wild man to companies across the country, most often getting automated denials the next day. All I wanted was an opportunity to speak with another human-being about my character, and how that character could more than make up for lack of real-time experience. Yet, here is this company, and all they wanted was to see how you think. If you were special, you’d be at the same place in line as anyone else. 
+
+Of course, in that time, I doubted that I could ever solve that puzzle, let alone become what I am trying to become today. But that experience stuck with me up until a Thursday evening in April 2018, when the all too familiar feeling of dreading going into work was creeping up again. I was tired of not being special. I was told by managers, co-workers, and family members “Wait your turn.”. It dawned on me that the time I was spending was almost like a rite of passage, where an arbitrary number of years was required before passing through. It was at that time where I decided that I was going to be the guy that solved the puzzle. 
+
+As someone who has been a number, I can promise you, you’re in the right place. This is the only industry that I know of where you can ring up any company you want, and you have a genuine opportunity of being evaluated through their technical interview. When the mountain of specs is getting to you, always remember that the place you’re going has no constraints on who you can become each and every day. To put it simply: “Solve the Puzzle. Get a job.”.
+
