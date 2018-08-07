@@ -1,6 +1,6 @@
 ---
 layout: post
-title:      "Sessions & Directions"
+title:      "Sessions and Directions"
 date:       2018-08-07 15:26:30 -0400
 permalink:  sessions_and_directions
 ---
