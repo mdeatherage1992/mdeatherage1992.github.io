@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Sessions & Directions"
-date:       2018-08-07 19:26:30 +0000
+date:       2018-08-07 15:26:30 -0400
 permalink:  sessions_and_directions
 ---
 
