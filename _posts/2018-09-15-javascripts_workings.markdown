@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "Javascript's Workings "
-date:       2018-09-15 16:36:55 +0000
+title:      "Javascripts Workings "
+date:       2018-09-15 12:36:56 -0400
 permalink:  javascripts_workings
 ---
 
