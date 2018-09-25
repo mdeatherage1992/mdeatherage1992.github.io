@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "The Bootcamp Experience"
-date:       2018-09-25 17:23:55 +0000
+title:      "Bootcamping"
+date:       2018-09-25 13:23:56 -0400
 permalink:  the_bootcamp_experience
 ---
 
