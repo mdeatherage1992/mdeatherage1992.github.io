@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "What to Work on During your "Wait""
-date:       2018-11-01 19:54:22 +0000
+title:      "What to Work on During your Wait"
+date:       2018-11-01 15:54:23 -0400
 permalink:  what_to_work_on_during_your_wait
 ---
 
