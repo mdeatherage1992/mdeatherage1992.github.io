@@ -1,0 +1,15 @@
+---
+layout: post
+title:      "My First Hakathon Debrief"
+date:       2018-11-10 18:01:06 +0000
+permalink:  my_first_hakathon_debrief
+---
+
+
+I recently participated in a Hackathon in which I had to create a React Application from scratch to satisfy use cases outlined by the company that was putting it on. I have built other react apps other than the one that we all had to do before graduation, but I wasn't making API calls in that manner. I think for most of us, the difference between a novice developer who doesn't have a shot getting past a tech interview and a true Jr developer is API calls. I have been interviewing for a couple weeks now, and most of the interviews have revolved around me getting and posting information to a makeshift database. 
+
+As a former salesperson, I more of a "let's get into it" type of guy, who doesn't whiteboard things out. I command my terminal "create-react-app", and let's see what happens. This doesn't work beyond the bootcamp (and sometimes not even) level. When you have multiple use cases to hit plus the need for it to look better than a clunky mess, you really have to take 30-45 minutes to build it out on paper before moving forward. This not only helps you visualize what you want, it also makes sure you stay grounded on what your capable of. In this Hackathon, I tried using redux. Huge mistake. There was no need for it with an application of this size, and that was a fatal mistake that cost me a nifty tablet, a set of headphones, or a job. 
+
+Simplicity. We are all bootcampers. We are competing against people who have been doing this a long time, and trying to build a complex application when there was no explicit instruction to do so is not smart. The most valuable lesson I learned building out this application is that React can work perfectly with no state management. If you are scaling a commercial level app, sure there might be a need to put in a storage device that can limit redundancy. But, if you are trying to get a job, focus on React. If I had any advice to someone who would be going into the job market soon, BUILD REACT ONLY APP. Not just a plain vanilla app either. Use rails, use a JS database, use anything, and make some API calls to it. I had 4.5 hours to complete the project, and I spent most of it just trying to figure out the pile of crap I made for myself when it came to storing things in redux. Remember the Michael Jordan quote where he took foul shots all the time? That is the same thing with API calls. Become a complete killer in API calls. Make as many as you can. Complex GETS, complex POSTS, and everything inbetween. My view at this point is that the way to shake out whose ready and who isn't database calls. I have already had to make 3 apps with it for companies. Not just in react either, just plain vanilla JS fetch requests. 
+
+As I head into next week where I will hear back, I am elated that I went and failed. I know exactly where to focus my efforts during the rest of my unemployment, and if they/someone decides to take shot on me, they can rest assured that I will have APIs on speed dial.
