@@ -1,0 +1,21 @@
+---
+layout: post
+title:      "Learning for 2019"
+date:       2019-01-03 19:33:58 +0000
+permalink:  learning_for_2019
+---
+
+
+As you are in different spots in your careers and learnings in coding, I think there should be time taken to figure out what actually worked for you. There are so few things these days that are effective at getting you into a realm of knowledge that you didn't think possible, and when one comes along ...well, we should milk that cow no?
+
+For me my learning has been most effective on Stack Overflow. These are people in a hurry trying to get the answers to their big and bright projects, and little ol' me gets to take a look at what's going on. I've only had to ask 3 questions since I started, one of which still hasn't been answered. Whether its databases, React calls, or just a random question on Object Oriented programming, each one is designed to be consumable to the point where it doesn't slow you or your progress down. 
+
+There are things that haven't been effective as well. Early in my learning I would rely on businesses and pre-formatted lessons to get me to where I want to be. This is 2018, and I think most of you know how quickly things have changed even since 3 years ago. Iphones couldn't do what they do now, and people expect more and more from technology. That, in turn, requires more and more from technologists. Being able to make a nifty change counter isn't going to cut it for interviews anymore. Just the other day I was asked to make a full blown feature on a website that included staging frameworks, heavy logic, and complex queries on a database I'd never seen before. 
+
+How are you going to know what to prepare for if no one tells you? Learning Ruby? Just Ruby? This ain't Kanasas anymore, no one cares what you can do with iterators and prime numbers. People want you to make them money the moment that they hire you. If you can't...are you hired right now? That Ruby skill needs to merely be a tool on your tool belt that you will use within the course of your job seeking. It will never get you a job. Nor will Vanilla JavaScript. 
+
+The quicker you learn what exactly companies are looking for (it took me a terribly long time to be able to read a typical technical job posting to see what was relevant for me...it takes time!), the quicker you can learn. If I could go back I would have a strong desire to read technology stack paradigms before I even typed into the keyboard. I want to learn ruby in the context of rails/sinatra. I want to learn JavaScript in context of React/Angular/Vue. None of us have time to play hopscotch, and I promise you that the 4-6 months we did isn't going to cut it. 
+
+It's 2019. Get the lead out and pick up a new framework to get on the resume each week. Apply to more jobs. Or don't, I don't know you so I'm not emotionally involved. 
+
+
