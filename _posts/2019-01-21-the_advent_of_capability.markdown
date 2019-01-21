@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      " The Advent of Capability"
-date:       2019-01-21 20:00:06 +0000
+date:       2019-01-21 15:00:07 -0500
 permalink:  the_advent_of_capability
 ---
 
