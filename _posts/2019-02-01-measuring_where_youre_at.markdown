@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Measuring Where You're At"
-date:       2019-02-01 10:49:48 +0000
+date:       2019-02-01 05:49:49 -0500
 permalink:  measuring_where_youre_at
 ---
 
