@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Your "Thing""
-date:       2019-02-18 16:31:43 +0000
+date:       2019-02-18 11:31:44 -0500
 permalink:  your_thing
 ---
 
